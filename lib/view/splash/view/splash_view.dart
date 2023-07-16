@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_architecture_template/view/splash/viewmodel/splash_view_model.dart';
 
 import '../../../core/base/view/base_view.dart';
+import '../viewmodel/splash_view_model.dart';
 
 class SplashView extends StatelessWidget {
   const SplashView({super.key});

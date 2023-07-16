@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mvvm_architecture_template/core/base/view/base_view.dart';
-import 'package:mvvm_architecture_template/view/onboard/viewmodel/on_board_view_model.dart';
+import '../../../core/base/view/base_view.dart';
+import '../viewmodel/on_board_view_model.dart';
 
 class OnBoardView extends StatelessWidget {
   const OnBoardView({super.key});

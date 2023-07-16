@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
-import 'package:mvvm_architecture_template/core/base/model/base_view_model.dart';
+
+import '../../../core/base/model/base_view_model.dart';
+
 part 'on_board_view_model.g.dart';
 
 class OnBoardViewModel = _OnBoardViewModelBase with _$OnBoardViewModel;
