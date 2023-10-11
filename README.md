@@ -1,10 +1,10 @@
-# flutter_mvvm_architecture_template
+# flutter_mvvm_template
 
-Flutter MVVM Architecture Template Starter Code
+Flutter MVVM Design Pattern Template Starter Code
 
-This repository contains the starter codes for developing a Flutter project suitable for the MVVM architecture
+This repository contains the starter codes for developing a Flutter project suitable for the MVVM pattern
 
-### General Packages
+### Some Packages
 
 - Mobx
 - Provider
