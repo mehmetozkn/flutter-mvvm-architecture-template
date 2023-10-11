@@ -6,6 +6,7 @@
 .atom/
 .buildlog/
 .history
+*.cpp
 .svn/
 migrate_working_dir/
 
